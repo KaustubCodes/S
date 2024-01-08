@@ -1,4 +1,4 @@
 # S
-My second repository
+My repository
 <br>
 Author-Kaustubh (Bhilai)
